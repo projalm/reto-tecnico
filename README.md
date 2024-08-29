@@ -11,6 +11,8 @@ Se hizo testing con las herramientas mocha, chai y sinon. correr comando "npm te
 
 el proyecto, luego de configurar el entorno, podra desplegarse en la cuenta propia serverless y AWS del usuario con el comando "serverless deploy"
 
+El proyecto esta desplegado actuamente en entorno de desarrollo en una cuenta personal de AWS donde estan los lambda, API Gateways y la BD dynamoDB la cual permite que la API este de forma publica: url base; https://kx4st4km7k.execute-api.us-east-1.amazonaws.com/dev/
+
 ## Requisitos Previos
 
 - Node.js v20+
