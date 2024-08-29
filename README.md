@@ -20,7 +20,7 @@ el proyecto, luego de configurar el entorno, podra desplegarse en la cuenta prop
 
 ## SWAGGER
 
-https://kx4st4km7k.execute-api.us-east-1.amazonaws.com/dev/api-docs
+https://kx4st4km7k.execute-api.us-east-1.amazonaws.com/dev/api-docs/#/
 
 ## Instalación
 
